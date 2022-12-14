@@ -26,3 +26,4 @@ Für den privaten Gebrauch sind aber auch andere Programme denkbar.
 * zweigeteilte Prüfung: Theorie und Labor
   * Der Theorieteil ist eine klassische Klausur.
   * Der Laborteil besteht aus Programmieraufgaben, die am Computer gelöst werden müssen.
+  
