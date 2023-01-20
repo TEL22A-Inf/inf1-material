@@ -1,5 +1,0 @@
-package slices
-
-func ExampleSlices() {
-
-}
