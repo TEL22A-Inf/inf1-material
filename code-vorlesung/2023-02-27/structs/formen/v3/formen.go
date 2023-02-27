@@ -29,15 +29,6 @@ func (r Rechteck) Draw() {
 	}
 }
 
-func (r Rechteck) DrawScaled(factor int) {
-	for i := 0; i < r.A*factor; i++ {
-		for j := 0; j < r.B*factor; j++ {
-			fmt.Print("*")
-		}
-		fmt.Println()
-	}
-}
-
 func (q *Quadrat) Resize(factor int) {
 	q.A = q.A * factor
 }
